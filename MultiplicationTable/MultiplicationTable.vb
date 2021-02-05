@@ -2,7 +2,7 @@
 'RCET0265
 'Spring 2021
 'Multiplication Table
-'
+'https://github.com/ToriGomez/MultiplicationTable.git
 
 
 Option Strict On
